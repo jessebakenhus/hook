@@ -1,0 +1,4 @@
+name: Hook
+version: '${project.version}'
+main: com.jessejes.github.hook.Hook
+api-version: 1.19
